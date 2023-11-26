@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @valentino.ivanovski on Instagram
+- 🛒 Gumroad: https://tino0.gumroad.com
 
 <!---
 valentino-ivanovski/valentino-ivanovski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
