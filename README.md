@@ -14,9 +14,3 @@
     🦅 Would like to learn coding in Swift
   </samp>
 </p>
-
-<p align="left">
-  <samp>
-    💡<em> "Who you are is limited by who you think you are."</em> 💡
-  </samp>
-</p>
