@@ -1,7 +1,7 @@
 <h1 align="center">👋🏼 Hii, Welcome to my GitHub!</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/Y3eSGb0Vd3NUa/giphy.gif" alt="Coding" width="300">
+  <img src="https://preview.redd.it/qwn3slk3bw991.gif?width=640&crop=smart&auto=webp&s=fb85e92b6d25dcae5868857701d4a653b4f0835d" alt="Coding" width="300">
 </p>
 
 <p align="center">
