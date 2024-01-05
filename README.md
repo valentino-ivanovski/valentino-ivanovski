@@ -15,14 +15,6 @@
   </samp>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=valentino-ivanovski&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=valentino-ivanovski&color=blueviolet" alt="Profile Views">
-</p>
-
 <p align="left">
   <samp>
     💡<em> "Who you are is limited by who you think you are."</em> 💡
