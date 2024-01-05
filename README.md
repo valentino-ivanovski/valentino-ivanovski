@@ -1,10 +1,10 @@
-<h1 align="left">👋🏼 Hii, Welcome to my GitHub!</h1>
+<h1 align="center">👋🏼 Hii, Welcome to my GitHub!</h1>
 
-<p align="left">
-  <img src="https://media.giphy.com/media/Y3eSGb0Vd3NUa/giphy.gif" alt="Coding" width="300">
+<p align="center">
+  <img src="[https://media.giphy.com/media/Y3eSGb0Vd3NUa/giphy.gif](https://preview.redd.it/qwn3slk3bw991.gif?width=640&crop=smart&auto=webp&s=fb85e92b6d25dcae5868857701d4a653b4f0835d)" alt="Coding" width="300">
 </p>
 
-<p align="left">
+<p align="center">
   <samp>
     🌌 Exploring the universe through code and stars<br>
     👨🏼‍💻 Studying Computer Science<br>
@@ -15,7 +15,7 @@
   </samp>
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=valentino-ivanovski&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
