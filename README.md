@@ -1,10 +1,10 @@
-<h1 align="center">👋🏼 Hii, My name is Valentino Ivanovski</h1>
+<h1 align="left">👋🏼 Hii, Welcome to my GitHub!</h1>
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/Y3eSGb0Vd3NUa/giphy.gif" alt="Coding" width="300">
 </p>
 
-<p align="center">
+<p align="left">
   <samp>
     🌌 Exploring the universe through code and stars<br>
     👨🏼‍💻 Studying Computer Science<br>
@@ -15,19 +15,15 @@
   </samp>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=valentino-ivanovski&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=valentino-ivanovski&color=blueviolet" alt="Profile Views">
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/ZgTR3c9QpsBPVy2q5d/giphy.gif" alt="Let's code together!" width="400">
-</p>
-
-<p align="center">
+<p align="left">
   <samp>
     💡<em> "Who you are is limited by who you think you are."</em> 💡
   </samp>
