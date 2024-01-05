@@ -7,10 +7,10 @@
 <p align="center">
   <samp>
     🌌 Exploring the universe through code and stars<br>
-    💻 Studying Computer Science to craft digital wonders<br>
+    💻 Studying Computer Science<br>
     🎨 Passionate about 3D Modeling and Graphics Design<br>
-    🚀 Always ready to collaborate on exciting projects<br>
-    📫 Reach me on <a href="https://www.instagram.com/valentino.ivanovski/" target="_blank">Instagram</a>
+    🚀 Always improving and learning new things<br>
+    📫 Social Media: <a href="https://www.instagram.com/valentino.ivanovski/" target="_blank">Instagram</a>
   </samp>
 </p>
 
