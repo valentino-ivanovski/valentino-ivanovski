@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, My name is Valentino Ivanovski 👨🏼‍💻</h1>
+<h1 align="center">👋🏼 Hii, My name is Valentino Ivanovski</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/Y3eSGb0Vd3NUa/giphy.gif" alt="Coding" width="300">
@@ -11,6 +11,7 @@
     💟 Passionate about 3D Modeling and Graphics Design<br>
     🚀 Always improving and learning new things<br>
     📲 Social Media: <a href="https://www.instagram.com/valentino.ivanovski/" target="_blank">Instagram</a>
+    🦅 Would like to learn coding in Swift
   </samp>
 </p>
 
