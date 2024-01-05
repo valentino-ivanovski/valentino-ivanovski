@@ -10,7 +10,7 @@
     👨🏼‍💻 Studying Computer Science<br>
     💟 Passionate about 3D Modeling and Graphics Design<br>
     🚀 Always improving and learning new things<br>
-    📲 Social Media: <a href="https://www.instagram.com/valentino.ivanovski/" target="_blank">Instagram</a>
+    📲 Social Media: <a href="https://www.instagram.com/valentino.ivanovski/" target="_blank">Instagram</a><br>
     🦅 Would like to learn coding in Swift
   </samp>
 </p>
