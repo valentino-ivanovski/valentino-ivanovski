@@ -11,6 +11,6 @@
     💟 Passionate about 3D Modeling and Graphics Design<br>
     🚀 Always improving and learning new things<br>
     📲 Social Media: <a href="https://www.instagram.com/valentino.ivanovski/" target="_blank">Instagram</a><br>
-    🦅 Would like to learn coding in Swift
+    🦅 Would like to learn coding with Swift
   </samp>
 </p>
