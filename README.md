@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <samp>
+  <samp align="left">
     🌌 Exploring the universe through code and stars<br>
     👨🏼‍💻 Studying Computer Science<br>
     💟 Passionate about 3D Modeling and Graphics Design<br>
