@@ -4,18 +4,16 @@
   <img src="https://preview.redd.it/qwn3slk3bw991.gif?width=640&crop=smart&auto=webp&s=fb85e92b6d25dcae5868857701d4a653b4f0835d" alt="Coding" width="300">
 </p>
 
-<div align="center">
-  <div style="width: 60%;">
-    <samp>
-      🌌 Exploring the universe through code and stars<br>
-      👨🏼‍💻 Studying Computer Science<br>
-      💟 Passionate about 3D Modeling and Graphics Design<br>
-      🚀 Always improving and learning new things<br>
-      📲 Social Media: <a href="https://www.instagram.com/valentino.ivanovski/" target="_blank">Instagram</a><br>
-      🦅 Would like to learn coding in Swift
-    </samp>
-  </div>
-</div>
+<p align="center">
+  <samp>
+    🌌 Exploring the universe through code and stars<br>
+    👨🏼‍💻 Studying Computer Science<br>
+    💟 Passionate about 3D Modeling and Graphics Design<br>
+    🚀 Always improving and learning new things<br>
+    📲 Social Media: <a href="https://www.instagram.com/valentino.ivanovski/" target="_blank">Instagram</a>
+    🦅 Would like to learn coding in Swift
+  </samp>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=valentino-ivanovski&show_icons=true&theme=radical" alt="GitHub Stats">
