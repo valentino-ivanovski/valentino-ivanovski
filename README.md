@@ -6,7 +6,6 @@
 
 <p align="center">
   <samp>
-    🌌 Exploring the universe through code and stars<br>
     👨🏼‍💻 Studying Computer Science<br>
     💟 Passionate about 3D Modeling and Graphics Design<br>
     🚀 Always improving and learning new things<br>
