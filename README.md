@@ -6,7 +6,7 @@
 
 <p align="center">
   <samp>
-    👨🏼‍💻 Studying Computer Science<br>
+    👨🏼‍💻 Studying Computer Science at [UP FAMNIT](https://www.famnit.upr.si)<br>
     💟 Passionate about 3D Modeling and Graphics Design<br>
     🚀 Always improving and learning new things<br>
     📲 Social Media: <a href="https://www.instagram.com/valentino.ivanovski/" target="_blank">Instagram</a><br>
