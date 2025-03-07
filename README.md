@@ -1,4 +1,4 @@
-<h1 align="center">👋🏼 Yo, What’s Good on My GitHub?</h1>
+<h1 align="center">👋🏼 Hey, welcome to my GitHub!</h1>
 
 <p align="center">
   <img src="https://preview.redd.it/qwn3slk3bw991.gif?width=640&crop=smart&auto=webp&s=fb85e92b6d25dcae5868857701d4a653b4f0835d" alt="Kanye Coding" width="300">
@@ -7,11 +7,11 @@
 <p align="center">
   <samp>
     CS student at UP FAMNIT.  
-    Love messing with code and geeking out on 3D modeling and graphics design.  
+    Love messing around with code, but also really into 3D modeling and graphics design.  
     Full-stack dev — built stuff like fractal explorers and music discovery apps.  
-    Currently playing with React, Node.js, and some UI/UX.  <br>
-    Hit up my <a href="https://www.instagram.com/valentino.ivanovski/" target="_blank">Instagram</a>.  <br>
-    <i>Repos got the good stuff, check ‘em out.</i>
+    Currently working with React, Node.js, and some UI/UX.  <br>
+    Check my <a href="https://www.instagram.com/valentino.ivanovski/" target="_blank">website</a> out.  <br>
+    <i>Repos got the good stuff, check ‘em out below ;].</i>
   </samp>
 </p>
 
