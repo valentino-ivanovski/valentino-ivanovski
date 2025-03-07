@@ -1,14 +1,1 @@
-<h1 align="center">👋🏼 Hii, Welcome to my GitHub!</h1>
-
-<p align="center">
-  <img src="https://preview.redd.it/qwn3slk3bw991.gif?width=640&crop=smart&auto=webp&s=fb85e92b6d25dcae5868857701d4a653b4f0835d" alt="Coding" width="300">
-</p>
-
-<p align="center">
-  <samp>
-    👨🏼‍💻 Studying Computer Science at <a href="https://www.famnit.upr.si">UP FAMNIT</a><br>
-    💟 Passionate about 3D Modeling and Graphics Design<br>
-    🚀 Always improving and learning new things<br>
-    📲 Social Media: <a href="https://www.instagram.com/valentino.ivanovski/" target="_blank">Instagram</a><br>
-  </samp>
-</p>
+<h1 align="center">👾 Hey, You’ve Landed in My Code Dimension!</h1> <p align="center"> <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" alt="Trippy Code Vibes" width="300"> </p> <p align="center"> <samp> 🧠 CS wizard-in-training at <a href="https://www.famnit.upr.si">UP FAMNIT</a><br> 🎨 Obsessed with 3D modeling, graphics, and bending pixels to my will<br> ⚡️ Full-stack dev who’s coded everything from fractal explorers to music discovery platforms<br> 🌌 Always chasing the next big idea — currently mastering React, Three.js, and distributed systems<br> 📸 Catch my vibe on <a href="https://www.instagram.com/valentino.ivanovski/" target="_blank">Instagram</a><br> </samp> </p> <p align="center"> <i>Pro tip: Check my repos for a wild ride through Mandelbrot sets, Pokémon APIs, and more.</i> </p>
