@@ -7,7 +7,7 @@
 <p align="center">
   <samp>
     CS student at UP FAMNIT.  
-    Love messing around with code, but also really into 3D modeling and graphics design.    
+    Love messing around with code, but also really into 3D modeling and graphics design.     <br>
     Currently working with fullstack develiopment and UI/UX - built stuff like fractal explorers and music discovery apps.  <br>
     Check my <a href="https://www.instagram.com/valentino.ivanovski/" target="_blank">website</a> out.  <br>
     <i>Repos got the good stuff, check ‘em out below ;].</i>
