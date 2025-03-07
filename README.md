@@ -9,7 +9,7 @@
     CS student at UP FAMNIT.  
     Love messing around with code, but also really into 3D modeling and graphics design.  
     Full-stack dev — built stuff like fractal explorers and music discovery apps.  
-    Currently working with React, Node.js, and some UI/UX.  <br>
+    Currently working with fullstack develiopment, and UI/UX.  <br>
     Check my <a href="https://www.instagram.com/valentino.ivanovski/" target="_blank">website</a> out.  <br>
     <i>Repos got the good stuff, check ‘em out below ;].</i>
   </samp>
