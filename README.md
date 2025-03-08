@@ -33,5 +33,3 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js">
 </p>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=valentino-ivanovski&show_icons=true&count_private=true)
